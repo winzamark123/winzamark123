@@ -3,7 +3,12 @@
 
 <p>I'm Win, studying Computer Science Class of 2025 and aspiring Fullstack Software Engineer from Thailand.</p>
 <p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">Win Cheng's Resume</a></p>
-<p>I was a previous software engineer intern @ Kebloom</p>
+<h3>Some Background:</h3>
+<ul>
+  <li>I was a previous Software Engineer Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
+  <li>Current Technical Director at one of California's largest Hackathon! <a href="https://hackdavis.io/">HackDavis</a></li>
+  <li>Technical Lead @ Google Developer Student Club</li>
+</ul>
 
 <h2>Here are some of my Stats (Still in progress):</h2>
 
@@ -19,5 +24,5 @@
   </div>
 </div>
 
-<h2>Here are some of my Projects!</h2>
+<h2>Don't forget to checkout some of my Projects!</h2>
 
