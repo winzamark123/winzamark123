@@ -2,7 +2,11 @@
 </h1>
 
 <p>I'm Win, studying Computer Science Class of 2025 and aspiring Fullstack Software Engineer from Thailand.</p>
-<h2>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">Win Cheng's Resume</a></h2>
+<p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">Win Cheng's Resume</a></p>
+<p>I was a previous software engineer intern @ Kebloom</p>
+
+<h2>Here are some of my Stats (Still in progress):</h2>
+
 
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: flex-start">
@@ -15,6 +19,5 @@
   </div>
 </div>
 
-<p>I was a previous software engineer intern @ Kebloom</p>
 <h2>Here are some of my Projects!</h2>
 
