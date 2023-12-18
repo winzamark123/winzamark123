@@ -10,9 +10,7 @@
   <li>Technical Lead @ Google Developer Student Club</li>
 </ul>
 
-<h2>Here are some of my Stats (Still in progress):</h2>
-
-
+<h2>Here are some of my Stats this week!:</h2>
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: flex-start">
   <a href="https://github.com/winzamark123/">
@@ -22,7 +20,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winzamark123&theme=codeSTACKr&title_color=E2684A&layout=compact" />
   </a>
   </div>
+  <div>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </div>
 </div>
+
 
 <h2>Don't forget to checkout some of my Projects!</h2>
 
