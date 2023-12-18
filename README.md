@@ -1,4 +1,6 @@
-<h1>Hey! Welcome to my Github Profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1>Hey! Welcome to my Github Profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1653068415/59246/bolb-sunglasses.jpg?1653068415" width="30">
+</h1>
 
 <p>I'm Win, studying Computer Science Class of 2025 and aspiring Fullstack Software Engineer from Thailand</p>
 <div align="center">
