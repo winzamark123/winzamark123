@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Teeranade Cheng (Win) Welcome to my Github Repo!
+
 
 <!--
 **winzamark123/winzamark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
   -->
   </a>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winzamark123&layout=compact)
