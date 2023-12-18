@@ -1,7 +1,6 @@
 <h1>Hey! Welcome to my Github Profile!</h1>
 
-<p>I'm Win, Computer Science and aspiring Fullstack Developer from Thailand</p>
-
+<p>I'm Win, studying Computer Science Class of 2025 and aspiring Fullstack Software Engineer from Thailand</p>
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: flex-start">
   <a href="https://github.com/winzamark123/">
@@ -12,3 +11,7 @@
   </a>
   </div>
 </div>
+
+<p>I was a previous software engineer intern @ Kebloom</p>
+<h2>Here are some of my Projects!</h2>
+
