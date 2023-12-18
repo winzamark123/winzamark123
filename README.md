@@ -1,4 +1,6 @@
-### Hi! I'm Teeranade Cheng (Win), Welcome to my Github Repo!
+<h1>Hey! Welcome to my Github Profile!</h1>
+
+<p>I'm Win, Computer Science and aspiring Fullstack Developer from Thailand</p>
 
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: flex-start">
