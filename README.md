@@ -27,5 +27,11 @@
 </div>
 
 
-<h2>Don't forget to checkout some of my Projects!</h2>
+<h2>Some of my Projects below!</h2>
+<ul>
+  <li><a href="https://github.com/winzamark123/JustSayin">JustSayin Mobile Application</a></li>
+  <li><a href= "https://davispng.com/">DavisPNG Website MarketPlace </a></li>
+    <li><a href = "https://tasa-ucdavis.com/">TASA Static Website</a></li>
+  <li><a href="https://github.com/hdjekso/imageGPT">IMAGEGPT Website Application</a></li>
+</ul>
 
