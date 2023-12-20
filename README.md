@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winzamark123&theme=codeSTACKr&title_color=E2684A&layout=compact" />
   </a>
   </div>
-  <div>
+  <div style="display: flex; justify-content: flex-start; align-items">
     <h2>This Week's Activity:</h2>
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
