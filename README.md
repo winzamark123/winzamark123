@@ -10,7 +10,7 @@
   <li>Technical Lead @ Google Developer Student Club</li>
 </ul>
 
-<h2>Here are some of my Stats this week!:</h2>
+<h2>Here are my current Stats!:</h2>
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: flex-start">
   <a href="https://github.com/winzamark123/">
@@ -22,8 +22,8 @@
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; align-items">
-    <h2>This Week's Activity:</h2>
-    <!--START_SECTION:waka-->
+    <h2>Time Spent this Week!:</h2>
+<!--START_SECTION:waka-->
 
 ```txt
 JavaScript   20 mins         ███████████████████████▒░   93.22 %
