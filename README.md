@@ -21,6 +21,7 @@
   </a>
   </div>
   <div>
+    <h2>This Week's Activity:</h2>
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
   </div>
