@@ -26,7 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 hrs 15 mins   █████████████████████████   100.00 %
+JavaScript   5 hrs 30 mins   ███████████████████████▒░   93.29 %
+Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+CocoaPods    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
