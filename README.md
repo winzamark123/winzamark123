@@ -5,7 +5,8 @@
 <p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">Win Cheng's Resume</a></p>
 <h3>Some Background:</h3>
 <ul>
-  <li>I was a previous Software Engineer Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
+  <li>Incoming SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
+  <li>I was a previous SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
   <li>Current Technical Director at one of California's largest Hackathon! <a href="https://hackdavis.io/">HackDavis</a></li>
   <li>Technical Lead @ Google Developer Student Club</li>
 </ul>
