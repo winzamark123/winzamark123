@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 25 mins  █████████████████████▒░░░   85.91 %
-Python       1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Prisma       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   8 hrs 30 mins   ██████████████████████░░░   88.61 %
+Python       1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
