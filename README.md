@@ -7,8 +7,9 @@
 <ul>
   <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
   <li>SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
-  <li>Current Technical Director at one of California's largest Hackathon! <a href="https://hackdavis.io/">HackDavis</a></li>
-  <li>Technical Lead @ Google Developer Student Club</li>
+  <li>SWE @ <a href="https://aggieworks.org//">AggieWorks</a></li>
+  <li>Lead Technical Director @ <a href="https://hackdavis.io/">HackDavis</a></li>
+  <li>Lead Technical @ <a href="https://gdscucdavis.com/">Google Developer Student Club</a></li>
 </ul>
 
 <h2>Here are my current Stats:</h2>
