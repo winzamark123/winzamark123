@@ -1,8 +1,8 @@
 <h1>Hey! Welcome to my Github Profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<p>I'm Win, studying Computer Science Class of 2025 and aspiring Fullstack Software Engineer from Thailand.</p>
-<p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">Win Cheng's Resume</a></p>
+<p>I'm Win, studying Computer Science Class of 2025 @ UC-Davis and Fullstack Software Engineer from Thailand.</p>
+<p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">wincheng.fyi</a></p>
 <h3>Some Background:</h3>
 <ul>
   <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
