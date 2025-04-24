@@ -1,14 +1,15 @@
 <h1>Hey! Welcome to my Github Profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<p>I'm Win, studying Computer Science Class of 2025 and aspiring Fullstack Software Engineer from Thailand.</p>
-<p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">Win Cheng's Resume</a></p>
+<p>I'm Win, studying Computer Science Class of 2025 @ UC-Davis and Fullstack Software Engineer from Thailand.</p>
+<p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">wincheng.fyi</a></p>
 <h3>Some Background:</h3>
 <ul>
-  <li>Incoming SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
-  <li>I was a previous SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
-  <li>Current Technical Director at one of California's largest Hackathon! <a href="https://hackdavis.io/">HackDavis</a></li>
-  <li>Technical Lead @ Google Developer Student Club</li>
+  <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
+  <li>SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
+  <li>SWE @ <a href="https://aggieworks.org//">AggieWorks</a></li>
+  <li>Lead Technical Director @ <a href="https://hackdavis.io/">HackDavis</a></li>
+  <li>Lead Technical @ <a href="https://gdscucdavis.com/">Google Developer Student Club</a></li>
 </ul>
 
 <h2>Here are my current Stats:</h2>
@@ -27,20 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 32 mins   ███████████░░░░░░░░░░░░░░   43.81 %
-TypeScript   3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-C++          1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-SCSS         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Other        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+TypeScript   12 hrs 26 mins  █████████████████████░░░░   83.91 %
+SCSS         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Bash         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
   </div>
-
-<h2>Some of my Projects below!</h2>
-<ul>
-  <li><a href="https://github.com/winzamark123/JustSayin">JustSayin Mobile Application</a></li>
-  <li><a href= "https://davispng.com/">DavisPNG Website MarketPlace </a></li>
-  <li><a href = "https://tasa-ucdavis.com/">TASA Static Website</a></li>
-  <li><a href="https://github.com/hdjekso/imageGPT">IMAGEGPT Website Application</a></li>
-</ul>
