@@ -5,9 +5,10 @@
 <p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">wincheng.fyi</a></p>
 <h3>Some Background:</h3>
 <ul>
+  <li>Frontend Engineer @ <a href = "https://bustem.com/">Bustem</a></li>
+  <li>SWE @ <a href="https://aggieworks.org//">AggieWorks</a></li>
   <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
   <li>SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
-  <li>SWE @ <a href="https://aggieworks.org//">AggieWorks</a></li>
   <li>Lead Technical Director @ <a href="https://hackdavis.io/">HackDavis</a></li>
   <li>Lead Technical @ <a href="https://gdscucdavis.com/">Google Developer Student Club</a></li>
 </ul>
