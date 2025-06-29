@@ -5,6 +5,7 @@
 <p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">wincheng.fyi</a></p>
 <h3>Some Background:</h3>
 <ul>
+  <li>Founding Engineer @ <a href = "https://jigsawstack.com/">JigsawStack</a></li>
   <li>Frontend Engineer @ <a href = "https://bustem.com/">Bustem</a></li>
   <li>SWE @ <a href="https://aggieworks.org//">AggieWorks</a></li>
   <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
