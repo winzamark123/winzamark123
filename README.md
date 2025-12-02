@@ -3,6 +3,10 @@
 
 <p>I'm Win, full time building in San Francisco</p>
 <p>Check out my Resume Website Here!~ <a href ="https://wincheng.fyi/">wincheng.fyi</a></p>
+<ul>
+  <li>Building <a href = "https://www.decafo.co/">decaf</a></li>
+  <li>Built <a href = "https://www.opencanvas.studio/">open-canvas</a></li>
+</ul>
 <h3>Some Background:</h3>
 <ul>
   <li>Founding Engineer @ <a href = "https://jigsawstack.com/">JigsawStack</a></li>
