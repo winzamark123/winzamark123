@@ -6,6 +6,8 @@
 <ul>
   <li>Building <a href = "https://www.decafo.co/">decaf</a></li>
   <li>Built <a href = "https://www.opencanvas.studio/">open-canvas</a></li>
+  <li>Built <a href = "https://apps.apple.com/us/app/justsayinapp/id6502377306">JustSayin</a></li>
+  <li>Built <a href = "https://camoora.io/">camoora</a></li>
 </ul>
 <h3>Some Background:</h3>
 <ul>
@@ -16,31 +18,4 @@
   <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
   <li>SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
   <li>Lead Technical Director @ <a href="https://hackdavis.io/">HackDavis</a></li>
-  <li>Lead Technical @ <a href="https://gdscucdavis.com/">Google Developer Student Club</a></li>
 </ul>
-
-<h2>Here are my current Stats:</h2>
-<div align="center">
-  <div style="display: flex; justify-content: space-around; align-items: flex-start">
-  <a href="https://github.com/winzamark123/">
-    <img src="https://github-readme-stats.vercel.app/api?username=winzamark123&count_private=true&rank_icon=github&show_icons=true&theme=codeSTACKr&include_all_commits=true&text_color=16A085&title_color=E2684A&border_radius=10&icon_color=E2684A&custom_title=Win's%20GitHub%20Stats" />
-  </a>
-  <a href="https://github.com/winzamark123/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winzamark123&theme=codeSTACKr&title_color=E2684A&layout=compact" />
-  </a>
-  </div>
-</div>
-<div style="display: flex; justify-content: flex-start; align-items">
-    <h2>Time Spent this Week:</h2>
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   15 hrs 3 mins   █████████████████░░░░░░░░   67.50 %
-MDX          3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-JSON         2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-CSS          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Markdown     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-```
-
-<!--END_SECTION:waka-->
-  </div>
