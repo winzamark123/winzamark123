@@ -21,8 +21,17 @@
 </ul>
 
 <h3>Contributed to (albeit small hehe)</h3>
-<p>
-  <a href="https://github.com/mintlify"><img src="https://avatars.githubusercontent.com/u/93011474?s=40&v=4" alt="@mintlify" /></a>
-  <a href="https://github.com/vercel"><img src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" alt="@vercel" /></a>
-  <a href="https://github.com/mixedbread-ai"><img src="https://avatars.githubusercontent.com/u/153227975?s=40&v=4" alt="@mixedbread-ai" /></a>
-</p>
+<div>
+  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 4px 10px 4px 4px; margin: 4px;">
+    <img src="https://avatars.githubusercontent.com/u/93011474?s=40&v=4" alt="@mintlify" width="28" height="28" style="border-radius: 6px;" />
+    <a href="https://github.com/mintlify" style="color: #c9d1d9; text-decoration: none; font-size: 14px;">@mintlify</a>
+  </div>
+  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 4px 10px 4px 4px; margin: 4px;">
+    <img src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" alt="@vercel" width="28" height="28" style="border-radius: 6px;" />
+    <a href="https://github.com/vercel" style="color: #c9d1d9; text-decoration: none; font-size: 14px;">@vercel</a>
+  </div>
+  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 4px 10px 4px 4px; margin: 4px;">
+    <img src="https://avatars.githubusercontent.com/u/153227975?s=40&v=4" alt="@mixedbread-ai" width="28" height="28" style="border-radius: 6px;" />
+    <a href="https://github.com/mixedbread-ai" style="color: #c9d1d9; text-decoration: none; font-size: 14px;">@mixedbread-ai</a>
+  </div>
+</div>
