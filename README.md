@@ -22,7 +22,7 @@
 
 <h3>Contributed to (albeit small hehe)</h3>
 <div>
-  <a href="https://github.com/mintlify"><img src="https://avatars.githubusercontent.com/u/93011474?s=40&v=4" alt="@mintlify" /></a>
-  <a href="https://github.com/vercel"><img src="https://img.shields.io/badge/%40vercel-21262d?style=for-the-badge&logo=vercel&logoColor=white" alt="@vercel" /></a>
-  <a href="https://github.com/mixedbread-ai"><img src="https://avatars.githubusercontent.com/u/153227975?s=40&v=4" alt="@mixedbread-ai" /></a>
+  <a href="https://github.com/mintlify"><img src="https://avatars.githubusercontent.com/u/93011474?s=20&v=4" alt="@mintlify" /></a>
+  <a href="https://github.com/vercel"><img src="https://avatars.githubusercontent.com/u/14985020?s=20&v=4" alt="@vercel" /></a>
+  <a href="https://github.com/mixedbread-ai"><img src="https://avatars.githubusercontent.com/u/153227975?s=20&v=4" alt="@mixedbread-ai" /></a>
 </div>
