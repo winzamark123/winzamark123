@@ -25,4 +25,5 @@
   <a href="https://github.com/mintlify"><img src="https://avatars.githubusercontent.com/u/93011474?s=30&v=4" alt="@mintlify" /></a>
   <a href="https://github.com/mixedbread-ai"><img src="https://avatars.githubusercontent.com/u/153227975?s=30&v=4" alt="@mixedbread-ai" /></a>
   <a href="https://github.com/vercel"><img src="https://avatars.githubusercontent.com/u/14985020?s=30&v=4" alt="@vercel" /></a>
+  <a href="https://github.com/zed-industries"><img src="https://avatars.githubusercontent.com/u/79345384?s=30&v=4" alt="@zed-industries" /></a>
 </div>
