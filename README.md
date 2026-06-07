@@ -16,7 +16,6 @@
   <li>Founding Engineer @ <a href = "https://bustem.com/">Bustem</a></li>
   <li>SWE @ <a href="https://aggieworks.org//">AggieWorks</a></li>
   <li>SWE Intern @ <a href = "https://www.rhombus.com/">Rhombus</a></li>
-  <li>SWE Intern @ <a href = "https://www.kebloom.com/">Kebloom</a></li>
   <li>Lead Technical Director @ <a href="https://hackdavis.io/">HackDavis</a></li>
 </ul>
 
